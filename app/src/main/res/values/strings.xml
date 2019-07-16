@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MP3 Player</string>
+    <string name="contentDescription_albumArt">Album Art for Song</string>
+</resources>
